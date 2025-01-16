@@ -3,15 +3,15 @@ Below are the steps for installing and rendering the presentation on your local 
 
 ## Installing Manim
 
-Install manim using the steps outlined [here][https://docs.manim.community/en/stable/installation.html#conda-installation].
+Install manim using the steps outlined [here](https://docs.manim.community/en/stable/installation.html#conda-installation).
 
 ## Installing Manim Slides
 
-Install manim slides using the steps outlined [here][https://www.manim.community/plugin/manim-slides/#installation].
+Install manim slides using the steps outlined [here](https://www.manim.community/plugin/manim-slides/#installation).
 
 ## Learn!
 
-Learn about manim [here][https://docs.manim.community/en/stable/tutorials/quickstart.html] and manim-slides [here][https://manim-slides.eertmans.be/latest/] and [here][https://www.manim.community/plugin/manim-slides/].
+Learn about manim [here](https://docs.manim.community/en/stable/tutorials/quickstart.html) and manim-slides [here](https://manim-slides.eertmans.be/latest/) and [here](https://www.manim.community/plugin/manim-slides/).
 
 ## Compile the files
 
