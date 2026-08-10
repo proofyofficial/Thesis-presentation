@@ -17,13 +17,13 @@ Learn about manim [here](https://docs.manim.community/en/stable/tutorials/quicks
 
 There are two steps to compile:
 
-### Rendering
+### Step 1: Rendering
 
 This step is done by executing the command: `manim-slides render {filename}.py {classname}` where `{filename}` is the name of the python file and `{classname}` is the main of the main class inside it.
 
 For example, you can write the command `manim-slides render galois.py Galois`, and you have to do so for every file.
 
-### Converting
+### Step 2: Converting
 
 Suppose you want to have the slides include "Class1" "Class2" "Class3" in that order, so you execute the command `manim-slides convert Class1 Class2 Class3`.
 
