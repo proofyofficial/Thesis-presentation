@@ -25,6 +25,6 @@ For example, you can write the command `manim-slides render galois.py Galois`, a
 
 ### Step 2: Converting
 
-Suppose you want to have the slides include "Class1" "Class2" "Class3" in that order, so you execute the command `manim-slides convert Class1 Class2 Class3`.
+Suppose you want to have the slides include "Class1" "Class2" "Class3" in that order, so you execute the command `manim-slides convert Class1 Class2 Class3 {filename}.html`.
 
-For example, in this repo, you should write `manim-slides convert Intro Vectors Matrix Matrix2 LinearText Galois`.
+For example, in this repo, you should write `manim-slides convert Intro Vectors Matrix Matrix2 LinearText Galois main.html`.
